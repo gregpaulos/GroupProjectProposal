@@ -40,7 +40,7 @@ Our project will enable a user to find margaritas nearby. It will allow the user
     * React (but not redux)
     * Deployment - Firebase (designated team*mate builds and deploys)
     * Library - google maps
-* Back*end:
+* Back-end:
     * Node
     * Express
     * Knex
