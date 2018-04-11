@@ -1,6 +1,8 @@
 # User Stories and Acceptance Criteria
 
 ## Essential
+* As a user, I want to know what this app is about.
+    * A header component is rendered with an h1 of the app title.
 * As a user, I want to find five options to have a margarita so that I can decide where to go.
     * When #findDrinks is clicked, a ul of at least 5 list options renders.
 * As an alcoholic, I need to find the closest margarita nearby, so I don't waste my drinking time.
@@ -24,9 +26,15 @@
     * The modal h2 specifying establishment name matches the info bubble's h2 specifying establishment name.
     * The modal img specifying star rating matches the info bubble's img specifying star rating.
 * As a working professional, I want to find a location for a margarita on my desktop from work, so I can get get a specific drink with my co-workers.
-    * 
+    * *__will determine later__*
 * As a user, I want to add new location for a margarita, so that others can find it.
+    * When clicking on #addMarg in the header, a modal with a form is rendered over the page the page darkened in the background.
+    * The DOM is still intact behind the modal.
+    * The form includes inputs for establishment name, rating, and address.
+    * When "Machete" is typed in the name input, 5 is typed into the rating input, "2817 E 3rd Ave" is typed into the address input, and #submitForm is clicked, a spinner will render temporarily and a p-tag will render below #submitForm with the text "Marg added successfully."
+    * When making a GET request to the server, Machete is returned with its 5-star rating and "2817 E 3rd Ave" address.
 * As an opinionated person, I want to give a star rating on a margarita I drank so that I can have my voice be heard.
+    * 
 * As a beverage connoissier, I need to find the highest rated margarita nearby, so that I don't waste my money on lower quality margaritas.
 
 ## Desired
