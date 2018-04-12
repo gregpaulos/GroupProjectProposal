@@ -1,6 +1,6 @@
 # Meeting Notes
 
-## 4/12/18
+## 4/11/18
 
 #### Topics
 * Determined git workflow
@@ -64,3 +64,6 @@
 * As a tourist, I want to find five options for a nearby margarita so that I can have one in an unfamiliar city.
 * As a user, I want to see a map of an individual establishment on its profile modal.
 * As a developer of this app, I want to be able to distinguish users so that users cannot leave many ratings for the same margarita and skew the rating system.
+
+## 4/12/18
+[See Photo](20180412_154742.jpg)
