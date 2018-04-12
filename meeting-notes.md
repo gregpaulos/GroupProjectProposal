@@ -1,6 +1,15 @@
-# User Stories and Acceptance Criteria
+# Meeting Notes
 
-## Essential
+## 4/12/18
+
+#### Topics
+* Determined git workflow
+* Determined tech stack
+* Set deployment process
+* Wrote and prioritized user stories
+* Wrote acceptance criteria for all user stories
+
+#### Prioritized User Stories with Acceptance Criteria
 * As a user, I want to know what this app is about.
     * A header component is rendered with an h1 of the app title.
 * As a user, I want to find five options to have a margarita so that I can decide where to go.
@@ -49,7 +58,7 @@
 * As a beverage connoissier, I need to find the highest rated margarita nearby, so that I don't waste my money on lower quality margaritas.
     * The 5+ list options is sorted from highest rating to lowest rating.
 
-## Desired
+#### Prioritized Stretch User Stories
 * As an opinionated person, I want to leave a text review of a margarita I drank  so that I can have my voice be heard.
 * As an alcoholic, I need to find the cheapest margarita nearby, so I don't waste my drink money.
 * As a tourist, I want to find five options for a nearby margarita so that I can have one in an unfamiliar city.
