@@ -67,3 +67,28 @@
 
 ## 4/12/18
 [See Photo](20180412_154742.jpg)
+
+## 4/13/18
+
+#### Notes from pair groups
+* Finished writing tests
+* Got map to render
+* Got a pin and info bubble on the map
+
+#### Where to Go Next
+* Add more functionality to the map (next couple user stories)
+* Get multiple pins to show on the map at the same time
+* Get info bubbles associated with each pin to load
+* Write some CSS
+
+## 4/16/18
+
+#### Notes from pair groups
+* Got multiple pins to render on the map simultaneously
+* Got info bubbles to render on each pin when clicked
+* Finished proximity measurements between user and establishments
+
+#### Where to Go Next
+* Write some CSS
+* Return results by proximity
+* Add rating system
