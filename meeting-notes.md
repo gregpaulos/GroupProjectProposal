@@ -92,3 +92,17 @@
 * Write some CSS
 * Return results by proximity
 * Add rating system
+
+## 4/17/18
+
+#### Notes from pair groups
+* Styling is going well
+* Added functionality to submit rating
+* Got average ratings to render on modules
+* Return results by proximity 
+
+#### Where to Go Next
+* Style more
+* Prepare for presentation
+
+
